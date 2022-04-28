@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saurabhburewar/ML_RL-test-case-prioritization/blob/main/TestCasePrioritization.ipynb)
+
 # ML_RL-test-case-prioritization
 This project is a subset of the algorithms implemented in the research paper "Reinforcement Learning for Test Case Prioritization".
 
